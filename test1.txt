@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 64AA-60CC
-
- Directory of C:\Users\ledco\OneDrive\Desktop\MyProject
-
-04/04/2024  10:20 PM    <DIR>          .
-04/04/2024  10:01 PM    <DIR>          ..
-04/04/2024  10:20 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  355,597,160,448 bytes free
+change 1
